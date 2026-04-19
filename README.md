@@ -100,9 +100,7 @@ void loop()
 
 ## Project Setup
 
-```
 ![Project Setup](2-stepper.jpeg)
-```
 
 ---
 
